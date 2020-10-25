@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a80c7c2-8cd1-4436-affc-d4e8e98eb839" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1jAHZ8MQfEgS4rT6JkVl3pX0DhN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build 6_game_with_loops.go">
+    <configuration name="go build 3_conditionals.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/3_conditionals.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 5_loops.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/5_loops.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 6_game_with_loops.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/6_game_with_loops.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build basics.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/basics.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build firstapp.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/firstapp.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 6_game_with_loops.go" />
+        <item itemvalue="Go Build.go build 5_loops.go" />
+        <item itemvalue="Go Build.go build 3_conditionals.go" />
+        <item itemvalue="Go Build.go build basics.go" />
+        <item itemvalue="Go Build.go build firstapp.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a80c7c2-8cd1-4436-affc-d4e8e98eb839" name="Default Changelist" comment="" />
+      <created>1603240029286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603240029286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1713" y="193" key="#GOPATH" timestamp="1603240721897">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1713" y="193" key="#GOPATH/2560.216.1680.1027/0.23.2560.1057@0.23.2560.1057" timestamp="1603240721897" />
+    <state width="1238" height="285" key="GridCell.Tab.0.bottom" timestamp="1603663557475">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="285" key="GridCell.Tab.0.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1603663557475" />
+    <state width="1238" height="285" key="GridCell.Tab.0.bottom/2560.216.1680.1027/0.23.2560.1057@0.23.2560.1057" timestamp="1603598023173" />
+    <state width="1238" height="285" key="GridCell.Tab.0.center" timestamp="1603663557474">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="285" key="GridCell.Tab.0.center/0.23.2560.1057@0.23.2560.1057" timestamp="1603663557474" />
+    <state width="1238" height="285" key="GridCell.Tab.0.center/2560.216.1680.1027/0.23.2560.1057@0.23.2560.1057" timestamp="1603598023173" />
+    <state width="1238" height="285" key="GridCell.Tab.0.left" timestamp="1603663557473">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="285" key="GridCell.Tab.0.left/0.23.2560.1057@0.23.2560.1057" timestamp="1603663557473" />
+    <state width="1238" height="285" key="GridCell.Tab.0.left/2560.216.1680.1027/0.23.2560.1057@0.23.2560.1057" timestamp="1603598023172" />
+    <state width="1238" height="285" key="GridCell.Tab.0.right" timestamp="1603663557474">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="285" key="GridCell.Tab.0.right/0.23.2560.1057@0.23.2560.1057" timestamp="1603663557474" />
+    <state width="1238" height="285" key="GridCell.Tab.0.right/2560.216.1680.1027/0.23.2560.1057@0.23.2560.1057" timestamp="1603598023173" />
+    <state x="349" y="208" key="SettingsEditor" timestamp="1603241126836">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="349" y="208" key="SettingsEditor/2560.216.1680.1027/0.23.2560.1057@0.23.2560.1057" timestamp="1603241126836" />
+    <state x="1628" y="117" width="584" height="870" key="find.popup" timestamp="1603606282802">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1628" y="117" width="584" height="870" key="find.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1603606282802" />
+  </component>
+</project>
